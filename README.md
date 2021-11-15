@@ -15,5 +15,5 @@ $ ./main.py
 ```
 
 ----------------------------------------------
-The files in this repository were generated from the above readme using [readme_coder](https://github.com/tom-doerr/readme-coder).
+The code and requirements.txt in this repository was generated from the above readme using [readme_coder](https://github.com/tom-doerr/readme-coder).
 
